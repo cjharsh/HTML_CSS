@@ -1,0 +1,80 @@
+body{
+    
+    background-color:aliceblue;
+    padding-top: 70px;
+}
+.jumbotron{
+    color: #12275e;
+    background-image: url("background_jumbo.jpg");
+    border: 1px solid white;
+    border-radius: 1cm;
+  
+  
+}
+.navbar{
+    background: #1f2347;
+}
+.navbar-inverse .navbar-nav > li > a{
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+    }
+.iconn{
+    display: inline-block;
+    overflow: hidden;
+}
+#add_symbol{
+    height: 6cm;
+}
+img{
+    border-radius: 0.5cm;
+}
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #d82020;
+}
+h2{
+    font-family:  'Hachi Maru Pop', cursive;
+    text-shadow: 1px 1px 2px rgb(35, 156, 160);
+}
+
+h3{
+    font-family: 'Nothing You Could Do', cursive;    
+    text-shadow: 1px 1px 2px pink;
+}
+.social_sites{
+    margin-top: 1cm;
+    height: 3cm;
+    
+   
+}
+
+div>i{
+    font-size: 3em;
+    margin: 0.5cm;
+    margin-right: 0cm;
+    color: rgb(85, 85, 240);
+}
+.fb{
+    
+    float: left;
+    margin-right: 2cm;
+}
+.linkss{
+    width: 40%;
+    
+    float: left;
+    padding-left: 20%;
+    font-size: 1.2em;
+   
+}
+.linkss2{
+        
+   
+    
+    font-size: 1.2em;
+   
+}
